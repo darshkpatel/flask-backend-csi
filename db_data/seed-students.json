@@ -1,0 +1,128 @@
+[
+    {
+      "name": "darsh",
+      "registrationNo": "18bci0000",
+      "registrationStatus": 1,
+      "gravitasID": 12345,
+      "teamID": 0
+    },
+    {
+      "name": "harsh",
+      "registrationNo": "18bci0001",
+      "registrationStatus": 1,
+      "gravitasID": 12346,
+      "teamID": 0
+    },
+    {
+      "name": "sam",
+      "registrationNo": "18bci0002",
+      "registrationStatus": 1,
+      "gravitasID": 12347,
+      "teamID": 0
+    },
+    {
+      "name": "ram",
+      "registrationNo": "18bci0003",
+      "registrationStatus": 1,
+      "gravitasID": 12348,
+      "teamID": 0
+    },
+    {
+      "name": "sharath",
+      "registrationNo": "18bci0004",
+      "registrationStatus": 1,
+      "gravitasID": 12349,
+      "teamID": 0
+    },
+    {
+      "name": "jhon",
+      "registrationNo": "18bci0005",
+      "registrationStatus": 1,
+      "gravitasID": 12350,
+      "teamID": 0
+    },
+    {
+      "name": "sanyam",
+      "registrationNo": "18bci0006",
+      "registrationStatus": 1,
+      "gravitasID": 12351,
+      "teamID": 0
+    },
+    {
+      "name": "devam",
+      "registrationNo": "18bci0007",
+      "registrationStatus": 1,
+      "gravitasID": 12352,
+      "teamID": 0
+    },
+    {
+      "name": "umang",
+      "registrationNo": "18bci0008",
+      "registrationStatus": 1,
+      "gravitasID": 12353,
+      "teamID": 0
+    },
+    {
+      "name": "saksham",
+      "registrationNo": "18bci0009",
+      "registrationStatus": 1,
+      "gravitasID": 12354,
+      "teamID": 0
+    },
+    {
+      "name": "raj",
+      "registrationNo": "18bci0010",
+      "registrationStatus": 1,
+      "gravitasID": 12355,
+      "teamID": 0
+    },
+    {
+      "name": "toby",
+      "registrationNo": "18bci0011",
+      "registrationStatus": 1,
+      "gravitasID": 12356,
+      "teamID": 0
+    },
+    {
+      "name": "richard",
+      "registrationNo": "18bci0012",
+      "registrationStatus": 1,
+      "gravitasID": 12357,
+      "teamID": 0
+    },
+    {
+      "name": "gilfoyle",
+      "registrationNo": "18bci0013",
+      "registrationStatus": 1,
+      "gravitasID": 12358,
+      "teamID": 0
+    },
+    {
+      "name": "monica",
+      "registrationNo": "18bci0014",
+      "registrationStatus": 0,
+      "gravitasID": 12359,
+      "teamID": 0
+    },
+    {
+      "name": "penny",
+      "registrationNo": "18bci0015",
+      "registrationStatus": 0,
+      "gravitasID": 12360,
+      "teamID": 0
+    },
+    {
+      "name": "sheldon",
+      "registrationNo": "18bci0016",
+      "registrationStatus": 0,
+      "gravitasID": 12361,
+      "teamID": 0
+    },
+    {
+      "name": "david",
+      "registrationNo": "18bci0017",
+      "registrationStatus": 0,
+      "gravitasID": 12362,
+      "teamID": 0
+    }
+  ]
