@@ -67,6 +67,14 @@ def add_team():
 @app.route('/api/team/<teamid>')
 def get_team(teamid):
     return jsonify(list(teams.find({"teamID":int(teamid)},{"_id":False})))
+@app.route('/api/points/<teamid>')
+def get_points(teamid):
+    team =teams.find_one({"teamID":int(teamid)},{"_id":False})
+    if team is None:
+        return jsonify({'status':'error', 'error':'Team {} Does not exist'.format(teamid)})
+    else:
+        output = {'teamID':int(teamid), 'points': team['points']}
+    return jsonify(output)
 
 
 
