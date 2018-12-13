@@ -4,48 +4,55 @@
       "location": "sjt",
       "type": 1,
       "description": "long description",
-      "points": 5
+      "points": 5,
+      "taskID": 1
     },
     {
       "name": "second task",
       "location": "Tt 002",
       "type": 2,
       "description": "long description",
-      "points": 3
+      "points": 3,
+      "taskID": 2
     },
     {
       "name": "third task",
       "location": "Sjt 223",
       "type": 3,
       "description": "long description",
-      "points": 6
+      "points": 6,
+      "taskID": 3
     },
     {
       "name": "fourth task",
       "location": "Mb 20",
       "type": 2,
       "description": "long description",
-      "points": 8
+      "points": 8,
+      "taskID": 4
     },
     {
       "name": "fifth task",
       "location": "Sjt 227",
       "type": 3,
       "description": "long description",
-      "points": 1
+      "points": 1,
+      "taskID": 5
     },
     {
       "name": "sixth task",
       "location": "foodies",
       "type": 3,
       "description": "long description",
-      "points": 2
+      "points": 2,
+      "taskID": 6
     },
     {
       "name": "seventh task",
       "location": "GDN",
       "type": 1,
       "description": "long description",
-      "points": 2
+      "points": 2,
+      "taskID": 7
     }
   ]
