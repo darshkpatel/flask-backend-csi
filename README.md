@@ -1,5 +1,5 @@
 # Flask API Backend - Docker
-This is a simple flask backend for the requirements given above. It uses MongoDB and Flask, also docker-compose has been configure to spin up docker containers for MongoDB and Flask.
+Simple Flask Backend made for a recruitment test. It uses MongoDB and Flask, also docker-compose has been configure to spin up docker containers for MongoDB and Flask.
 
 # Installation and running
 ``` sudo docker-compose build```
